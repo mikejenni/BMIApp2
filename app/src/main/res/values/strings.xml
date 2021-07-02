@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">BMIApp2</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="main_title" translatable="false">Hauptseite</string>
+    <string name="d" translatable="false">Hauptseite</string>
+    <string name="bmi_title" translatable="false">Body Mass Index</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="inputText" translatable="false">Please enter:</string>
+    <string name="height">Height(cm)</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="result">Your Results:</string>
+    <string name="bmi" translatable="false">BMI:</string>
+    <string name="bmiRatingLegend" translatable="false">BMI Rating Legend:</string>
+    <string name="bmiRating" translatable="false">BMI Rating</string>
+    <string name="rating" translatable="false">Rating:</string>
+
+    <string name="rating_0" translatable="false">Very severely underweight</string>
+    <string name="rating_1" translatable="false">Severely underweight</string>
+    <string name="rating_2" translatable="false">Underweight</string>
+    <string name="rating_3" translatable="false">Normal (healthy weight)</string>
+    <string name="rating_4" translatable="false">Overweight</string>
+    <string name="rating_5" translatable="false">Obese Class I (Moderately obese)</string>
+    <string name="rating_6" translatable="false">Obese Class II (Severely obese)</string>
+    <string name="rating_7" translatable="false">Obese Class III (Very severely obese)</string>
+    <string name="rating_0_text" translatable="false">BMI under 15</string>
+    <string name="rating_1_text" translatable="false">BMI from 15 to 16</string>
+    <string name="rating_2_text" translatable="false">BMI from 16 to 18.5</string>
+    <string name="rating_3_text" translatable="false">BMI from 18.5 to 25</string>
+    <string name="rating_4_text" translatable="false">BMI from 25 to 30</string>
+    <string name="rating_5_text" translatable="false">BMI from 30 to 35</string>
+    <string name="rating_6_text" translatable="false">BMI from 35 to 40</string>
+    <string name="rating_7_text" translatable="false">BMI more then 40</string>
+    <string name="title_activity_5__rating" translatable="false">Activity_5_Rating</string>
+
+    <string name="app_settings" translatable="false">App Settings</string>
+    <string name="create_user" translatable="false">Create User</string>
+    <string name="app_settings_user" translatable="false">App Settings User</string>
+    <string name="history" translatable="false">History</string>
+    <string name="save_new_user" translatable="false">Save new user</string>
+    <string name="current_user" translatable="false">Current User:</string>
+    <string name="new_user" translatable="false">New User:</string>
+    <string name="saveBmi" translatable="false">Save BMI</string>
+    <string name="menuHistory" translatable="false">BMI History</string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world" translatable="false">Hello Square World!</string>
+    <string name="title_activity_6__rating" translatable="false">Activity_6_Rating</string>
+    <string name="bmi_description">The body mass index - also body mass index, body mass number or Quetelet-Kaup index - is a measure for evaluating a person\'s body weight in relation to their body weight.</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+</resources>

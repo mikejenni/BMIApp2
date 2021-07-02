@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item_starting"
+        android:title="@string/bmi_title"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_calculator"
+        android:title="@string/bmi_calculator"
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/item_rating"
+        android:title="@string/bmiRatingLegend"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_settings"
+        android:title="@string/app_settings"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_history"
+        android:title="@string/menuHistory"
+        app:showAsAction="never"/>
+
+
+
+
+
+
+</menu>

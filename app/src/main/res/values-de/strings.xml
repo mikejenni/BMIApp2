@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMIApp2</string>
+    <string name="bmi_calculator">BMI Rechner</string>
+    <string name="calculate">Berechnen</string>
+    <string name="clear">Löschen</string>
+    <string name="height">Höhe(cm)</string>
+    <string name="weight">Gewicht(kg)</string>
+    <string name="result">Dein Resultat:</string>
+    <string name="bmi_description" translatable="false">Der Body-Mass-Index – auch Körpermasseindex, Körpermassenzahl oder Quetelet-Kaup-Index – ist eine Maßzahl für die Bewertung des Körpergewichts eines Menschen in Relation zu seiner Körpergröße.</string>
+</resources>
